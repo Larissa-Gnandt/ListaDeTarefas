@@ -3,4 +3,14 @@
     <string name="add_task">Adicionar Tarefa</string>
     <string name="tasks_list">Tarefas</string>
     <string name="empty_list">Nenhuma tarefa ainda</string>
+    <string name="test_audio">Testar</string>
+    <string name="open_bluetooth">Bluetooth</string>
+    <string name="read_message">Ler</string>
+    <string name="audio_status">Status do Áudio</string>
+    <string name="speaker_available">Alto-falante: Disponível</string>
+    <string name="speaker_unavailable">Alto-falante: Indisponível</string>
+    <string name="bluetooth_connected">Bluetooth: Conectado</string>
+    <string name="bluetooth_disconnected">Bluetooth: Desconectado</string>
+    <string name="test_message">Olá! Este é um teste de áudio do aplicativo Doma para assistência aos funcionários.</string>
+    <string name="notification_message">Você tem uma nova notificação importante.</string>
 </resources>
